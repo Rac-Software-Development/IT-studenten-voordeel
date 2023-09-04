@@ -20,7 +20,7 @@ Welkom student! <br><br>Omdat jij een student bent kan je een heleboel dingen (b
 | [DotNetFriday](https://dotnetfriday.nl/)                          | Nederlandse .NET meetup eens per kwartaal. |
 | [NL Java User Group (NLJUG)](https://nljug.org/lidworden/gratis-lid-worden-studenten/)              | Nederlandse gebruikersgroep voor Java-ontwikkelaars. **Eerste jaar gratis** met een magazine 4x per jaar en toegang tot de grootste Nederlandse Java conferenties. |
 | [Software Development Network (SDN)](https://sdn.nl/lidworden/gratis-lid-worden-studenten/) | Nederlandse netwerkorganisatie voor .NET softwareontwikkeling. **Eerste jaar gratis** met een magazine 4x per jaar. |
-| [Azure Platform Engineering (APE)](https://www.meetup.com/nl-NL/azure-platform-engineering/) | Platform voor Azure-ontwikkeling die maandelijks meetups organiseerd.        |
+| [Azure Platform Engineering (APE)](https://www.meetup.com/nl-NL/azure-platform-engineering/) | Platform voor Azure-ontwikkeling die maandelijks meetups organiseert.        |
 
 ## Conferenties & Congressen
 
@@ -45,7 +45,7 @@ Welkom student! <br><br>Omdat jij een student bent kan je een heleboel dingen (b
 | **Item**                         | **Beschrijving**                               |
 |----------------------------------|-----------------------------------------------|
 | [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/studentambassadors) | Studentenambassadeursprogramma voor Microsoft-technologieën. Inclusief gratis microsoft goodies, evenementen, coaching, en cursussen. |
-| [Google Developer Student Club](https://gdsc.community.dev/delft-university-of-technology/)   | Club voor studenten die geïnteresseerd zijn in Google-technologieën. Zit bij de TU Delft. |
+| [Google Developer Student Club](https://gdsc.community.dev/delft-university-of-technology/)   | Club voor studenten die geïnteresseerd zijn in Google-technologieën. Het maakt deel uit van de TU Delft. |
 
 ## Fun
 

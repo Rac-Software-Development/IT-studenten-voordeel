@@ -7,10 +7,10 @@ Welkom student! <br><br>Omdat jij een student bent kan je een heleboel dingen (b
 | [JetBrains Education](https://www.jetbrains.com/community/education/#students)     | Alle Jetbrains IDE's (PyCharm, WebStorm, Intellij, Rider) gratis. |
 | [GitHub Student Developer Pack](https://education.github.com/pack)   | Heel veel verschillende services gratis aangeboden door GitHub.  |
 | [Windows 11 Education](https://www.surfspot.nl/gratis-windows-11-upgrade-education-student.html)    | Onderwijsversie van Windows 11 gratis via SurfSpot.                  |
-| [Microsoft Azure Credits](https://azure.microsoft.com/nl-nl/free/students) | 100 credits gratis voor Microsoft Azure.   |
+| [Microsoft Azure Credits](https://azure.microsoft.com/nl-nl/free/students) | $100 aan credits gratis voor Microsoft Azure.   |
 | [Microsoft Fundamental Certificaat](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-get-a-microsoft-certification-for-free-as-a-student/ba-p/3584897) | Gratis examen voor Microsoft Certificaten ter waarde van $99.        |
 | [.me domein bij Namescheap](https://nc.me/) | Registratie voor een .me-domein bij Namecheap. **Eerste jaar gratis**. |
-| [Start abonnement bij Bibliotheek Rotterdam](https://www.bibliotheek.rotterdam.nl/word-lid) | Gebruik de computers en het internet van Bibliotheek Rotterdam voor 12 euro per jaar. Daarnaast mag je ook 6 boeken per jaar lenen |
+| [Start abonnement bij Bibliotheek Rotterdam](https://www.bibliotheek.rotterdam.nl/word-lid) | Gebruik de computers en het internet van Bibliotheek Rotterdam voor 12 euro per jaar. Daarnaast mag je ook 6 boeken per jaar lenen. |
 
 ## Netwerken
 
@@ -44,7 +44,7 @@ Welkom student! <br><br>Omdat jij een student bent kan je een heleboel dingen (b
 
 | **Item**                         | **Beschrijving**                               |
 |----------------------------------|-----------------------------------------------|
-| [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/studentambassadors) | Studentenambassadeursprogramma voor Microsoft-technologieën. Inclusief gratis spullen, evenementen, coachen en cursussen. |
+| [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/studentambassadors) | Studentenambassadeursprogramma voor Microsoft-technologieën. Inclusief gratis microsoft goodies, evenementen, coaching, en cursussen. |
 | [Google Developer Student Club](https://gdsc.community.dev/delft-university-of-technology/)   | Club voor studenten die geïnteresseerd zijn in Google-technologieën. Zit bij de TU Delft. |
 
 ## Fun

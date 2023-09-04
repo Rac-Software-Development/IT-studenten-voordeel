@@ -1,6 +1,6 @@
 Welkom student! <br><br>Omdat jij een student bent kan je een heleboel dingen (bijna) gratis krijgen of doen. Hierbij een lijst van dingen die jou kunnen helpen tijdens je Software Development studie.
 
-## Handig om te hebben
+## Handig voor je studie
 
 | **Item**                | **Beschrijving**                               |
 |-------------------------|-----------------------------------------------|
@@ -10,6 +10,7 @@ Welkom student! <br><br>Omdat jij een student bent kan je een heleboel dingen (b
 | [Microsoft Azure Credits](https://azure.microsoft.com/nl-nl/free/students) | 100 credits gratis voor Microsoft Azure.   |
 | [Microsoft Fundamental Certificaat](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-get-a-microsoft-certification-for-free-as-a-student/ba-p/3584897) | Codes voor Microsoft Certificaten ter waarde van $99.        |
 | [.me domein bij Namescheap](https://nc.me/) | Registratie voor een .me-domein bij Namecheap. **Eerste jaar gratis**. |
+| [Start abonnement bij Bibliotheek Rotterdam](https://www.bibliotheek.rotterdam.nl/word-lid) | Gebruik de computers en het internet van Bibliotheek Rotterdam voor 12 euro per jaar. Daarnaast mag je ook 6 boeken per jaar lenen |
 
 ## Netwerken
 
@@ -37,7 +38,7 @@ Welkom student! <br><br>Omdat jij een student bent kan je een heleboel dingen (b
 | **Item**                         | **Beschrijving**                               |
 |----------------------------------|-----------------------------------------------|
 | [HBO-ICT job & student event (6 oktober 2023)](https://www.hboictjobevent.nl/) | Evenement voor HBO-ICT-banen en stages. Gratis toegang.|
-| [Hacktoberfest evenement InfoSupport (13 & 14 oktober](https://carriere.infosupport.com/hacktoberfest/)    | Een weekend samenwerken met andere studenten aan open-source projecten. All-inclusive inclusief hotelovernachting. |
+| [Hacktoberfest evenement InfoSupport (13 & 14 oktober)](https://carriere.infosupport.com/hacktoberfest/)    | Een weekend samenwerken met andere studenten aan open-source projecten. All-inclusive inclusief hotelovernachting. |
 
 ## Studenten programma’s
 

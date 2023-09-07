@@ -11,6 +11,7 @@ Welkom student! <br><br>Omdat jij een student bent kan je een heleboel dingen (b
 | [Microsoft Fundamental Certificaat](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-get-a-microsoft-certification-for-free-as-a-student/ba-p/3584897) | Gratis examen voor Microsoft Certificaten ter waarde van $99.        |
 | [.me domein bij Namescheap](https://nc.me/) | Registratie voor een .me-domein bij Namecheap. **Eerste jaar gratis**. |
 | [Start abonnement bij Bibliotheek Rotterdam](https://www.bibliotheek.rotterdam.nl/word-lid) | Gebruik de computers en het internet van Bibliotheek Rotterdam voor 12 euro per jaar. Daarnaast mag je ook 6 boeken per jaar lenen. |
+| [ICT boeken van O'Reilly](https://www.oreilly.com/member/login/) | Gratis informatieve boeken, audioboeken en cursussen over programmeren en IT gerelateerde zaken |
 
 ## Netwerken
 

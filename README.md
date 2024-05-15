@@ -27,6 +27,7 @@ Welkom student! <br><br>Omdat jij een student bent kan je een heleboel dingen (b
 | **Item**                             | **Beschrijving**                               |
 |--------------------------------------|-----------------------------------------------|
 | [Upstream Festival (28 & 29 mei 2024)](https://www.upstreamfestival.com/)           | Internationaal festival over startups in Rotterdam. 25 euro voor een studenten ticket |
+| [Collabdays NL (1 juni 2024)](https://www.collabdays.org/2024-nl/) | Jaarlijkse Microsoft Azure / M365 conferentie. Gratis voor iedereen |
 | [JSpring (13 juli 2024)](https://jspring.nl/)     | Jaarlijkse Java-conferentie.  Gratis toegang als je een NL Java User Group membership hebt. |
 | [Kubernetes Community Days Amsterdam 2024 (oktober / november 2024)](https://community.cncf.io/events/details/cncf-kcd-netherlands-presents-kubernetes-community-days-amsterdam-2023/) | Lokale Kubernete conferentie. Gratis tickets voor studenten. |
 | [Cybersec Europe (6 & 7 november 2024)](https://www.cybersec-netherlands.com/) | Nederlandse cybersecurity-conferentie in Utrecht. Gratis toegang. |

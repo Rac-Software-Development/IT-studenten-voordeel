@@ -1,89 +1,123 @@
-Welkom student! <br><br>
-Omdat jij een student bent kan je een heleboel dingen (bijna) gratis krijgen of doen. Hierbij een lijst van dingen die jou kunnen helpen tijdens je Software Development studie.
+# IT-studenten-voordeel
 
-## Handig voor je studie
+Een actuele lijst met tools, programma's, kortingen, communities en events voor studenten in software development en IT.
 
-| **Item**                                                                                                                                             | **Beschrijving**                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [JetBrains Education](https://www.jetbrains.com/community/education/#students)                                                                       | Alle JetBrains IDE's (PyCharm, WebStorm, IntelliJ, Rider) gratis.                                                                       |
-| [GitHub Student Developer Pack](https://education.github.com/pack)                                                                                   | Heel veel verschillende services gratis aangeboden door GitHub.                                                                         |
-| [Microsoft Azure Credits](https://azure.microsoft.com/nl-nl/free/students)                                                                           | \$100 aan credits gratis voor Microsoft Azure.                                                                                          |
-| [.me domein bij Namecheap](https://nc.me/)                                                                                                           | Registratie voor een .me-domein bij Namecheap. **Eerste jaar gratis**.                                                                  |
-| [Start abonnement bij Bibliotheek Rotterdam](https://www.bibliotheek.rotterdam.nl/word-lid)                                                          | Gebruik gratis de computers en het internet van Bibliotheek Rotterdam. Daarnaast mag je ook 6 materialen (zoals boeken) per jaar lenen. |
-| [ICT-boeken & cursussen via O'Reilly](https://www.oreilly.com/member/login/)                                                                         | Informatieve boeken, audioboeken en cursussen over programmeren en IT (vaak via onderwijsinstelling of bibliotheek).                    |
-| [SURFspot](https://www.surfspot.nl/)                                                                                                                 | **Korting voor NL-studenten** op software/hardware (via je onderwijsinstelling).                                                        |
-| [Azure Dev Tools for Teaching](https://azureforeducation.microsoft.com/devtools)                                                                     | Windows, Visual Studio, SQL Server e.d. **gratis** via je instelling.                                                                   |
-| [GitHub Copilot (Global Campus)](https://github.com/education/students)                                                                              | Copilot gratis/afgeprijsd voor geverifieerde studenten.                                                                                 |
-| [Figma Education Plan](https://www.figma.com/education/)                                                                                             | Figma Professional **gratis** voor studenten/onderwijs.                                                                                 |
-| [Notion Education](https://www.notion.so/product/notion-for-education)                                                                               | Persoonlijk Notion-plan **gratis** met je edu-mail.                                                                                     |
-| [AWS Educate](https://aws.amazon.com/education/awseducate/)                                                                                          | Toegang tot labs/credits om in de cloud te bouwen.                                                                                      |
-| [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)                                                                                    | Hands-on labs; vaak studentcredits beschikbaar (ook via GitHub Pack).                                                                   |
-| [GitHub Pages](https://pages.github.com/) | Deploy je portfolio/app gratis via GitHub en koppel je `.me`-domein.                                                                               |
-| [Bitwarden](https://bitwarden.com/) + 2FA (Aegis/Authy/Microsoft Authenticator)                                                                      | Password manager (gratis) + twee-factor-authenticatie voor je accounts.                                                                 |
+> Laatste inhoudelijke controle: 2026-05-19  
+> 
+> Scope: studentendeals, developer tools, communities, security essentials en terugkerende events  
+> 
+> Regiolabels: `[Global]`, `[NL]`, `[Rotterdam]`  
+> 
+> Let op: prijzen, credits, limieten, verificatie-eisen en beschikbaarheid kunnen wijzigen. De officiële aanbiederpagina is altijd leidend.
 
-## Netwerken
+## Hoe gebruik je deze lijst?
 
-| **Item**                                                                                     | **Beschrijving**                                                                                                                                                        |
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Cloud Native Computing Foundation](https://community.cncf.io/cloud-native-students/)        | Community voor cloud-native computing (devops). Heeft zijn eigen hoekje voor studenten.                                                                                 |
-| [DotNetFriday](https://dotnetfriday.nl/)                                                     | Nederlandse .NET meetup eens per kwartaal.                                                                                                                              |
-| [NL Java User Group (NLJUG)](https://nljug.org/lidworden/gratis-lid-worden-studenten/)       | Nederlandse gebruikersgroep voor Java-ontwikkelaars. **Eerste twee jaar gratis** met een magazine 4x per jaar en toegang tot de grootste Nederlandse Java conferenties. |
-| [Software Development Network (SDN)](https://sdn.nl/lidworden/gratis-lid-worden-studenten/)  | Nederlandse netwerkorganisatie voor .NET softwareontwikkeling. **Eerste jaar gratis** met een magazine 4x per jaar.                                                     |
-| [Azure Platform Engineering (APE)](https://www.meetup.com/nl-NL/azure-platform-engineering/) | Platform voor Azure-ontwikkeling die maandelijks meetups organiseert.                                                                                                   |
+- Start met de `[Global]` items. Die zijn meestal internationaal beschikbaar.
+- Check daarna `[NL]` en `[Rotterdam]` voor lokale voordelen.
+- Controleer altijd de officiële pagina voordat je een account, abonnement of aanvraag start.
+- Zie je iets dat niet meer klopt? Open een issue of stuur een PR met een juiste bron.
 
-Andere meetup-groepen over van alles en nog wat zijn te vinden op [meetup.com](https://www.meetup.com). Typ hiervoor bij locatie **"Rotterdam, NL"** in en voor type evenement **"in-person"**.
+## Inhoud
 
-## Conferenties & Congressen
+- [Developer tools en studentendeals](#developer-tools-en-studentendeals)
+- [Cloud en hosting](#cloud-en-hosting)
+- [Design, productiviteit en media](#design-productiviteit-en-media)
+- [Nederlandse en lokale voordelen](#nederlandse-en-lokale-voordelen)
+- [Communities en carrière](#communities-en-carrière)
+- [Security essentials](#security-essentials)
+- [Jaarlijkse events](#jaarlijkse-events)
+- [Bijdragen](#bijdragen)
+- [Onderhoudsregels](#onderhoudsregels)
+- [Licentie](#licentie)
 
-| **Item**                                                                               | **Beschrijving**                                                                                  |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [Upstream Festival (21 mei 2026)](https://www.upstreamfestival.com/)                   | Internationaal festival over startups in Rotterdam. 25 euro voor een studententicket.             |
-| [Collabdays NL (13 juni 2026)](https://www.collabdays.org/2026-nl/)                    | Jaarlijkse Microsoft Azure / M365 conferentie. Gratis voor iedereen.                              |
-| [Cybersec Netherlands (10 & 11 september 2025)](https://www.cybersec-netherlands.com/) | Nederlandse cybersecurity-conferentie in Utrecht. Gratis toegang.                                 |
-| [TechEx Amsterdam (24 & 25 september 2025)](https://www.ai-expo.net/europe/)           | Expo over Big Data & AI, cybersecurity en IoT. Toegang tot expo-vloer is gratis.                  |
-| [World Summit AI (8 & 9 oktober 2025)](https://worldsummit.ai/)                        | Grote AI-conferentie in Amsterdam. Studententicket op aanvraag zolang er voorraad is.             |
-| [J-Fall (5 november 2025)](https://jfall.nl/)                                          | Jaarlijkse Java-conferentie in Ede. Gratis toegang als je een NL Java User Group membership hebt. |
-| [ICT & Logistiek (4–6 november 2025)](https://www.ict-en-logistiek.nl/)                | Gratis expo gefocust op de mix tussen ICT en Logistiek.                                           |
-| [Cloud Expo 2025 (3 & 4 december 2025)](https://www.cloudexpo.nl/)                     | Expo over cloudtechnologieën in Houten. Gratis toegang.                                           |
-| [Zorg & ICT (14–16 april 2026)](https://www.zorg-en-ict.nl/)                           | Expo gefocust op de mix tussen ICT en zorg. Gratis toegang.                                       |
+## Developer tools en studentendeals
 
-## Studenten evenementen
+| Item | Regio | Wat je krijgt | Officiële pagina |
+|---|---|---|---|
+| JetBrains Education | `[Global]` | Gratis studententoegang tot JetBrains IDE's en tools, na verificatie | [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) |
+| GitHub Student Developer Pack | `[Global]` | Bundel met developer tools, credits en studentvoordelen | [GitHub Student Developer Pack](https://education.github.com/pack) |
+| GitHub Education for students | `[Global]` | Studentverificatie en toegang tot GitHub Education voordelen | [GitHub Education Students](https://github.com/education/students) |
+| GitHub Copilot Student | `[Global]` | Studententoegang tot Copilot, afhankelijk van actuele GitHub voorwaarden en beschikbaarheid | [GitHub Education Students](https://github.com/education/students) |
+| Namecheap student bundle | `[Global]` | Studentendomein en aanvullende voordelen via GitHub Education | [Namecheap for Students](https://nc.me/) |
+| Exercism | `[Global]` | Gratis programmeeroefeningen en mentoring | [Exercism](https://exercism.org/) |
+| Good First Issue | `[Global]` | Overzicht van beginnersvriendelijke open source issues | [Good First Issue](https://goodfirstissue.dev/) |
+| Devpost | `[Global]` | Hackathons, projecten en studentvriendelijke challenges | [Devpost](https://devpost.com/) |
+| Major League Hacking | `[Global]` | Hackathons en student developer events | [MLH](https://mlh.io/) |
 
-| **Item**                                                                   | **Beschrijving**                                        |
-| -------------------------------------------------------------------------- | ------------------------------------------------------- |
-| [HBO-ICT job & student event (2 oktober 2025)](https://hboictjobevent.nl/) | Evenement voor HBO-ICT-banen en stages. Gratis toegang. |
+## Cloud en hosting
 
-## Studenten programma’s
+| Item | Regio | Wat je krijgt | Officiële pagina |
+|---|---|---|---|
+| Azure for Students | `[Global]` | Azure krediet en studenttoegang zonder creditcard, afhankelijk van actuele voorwaarden | [Azure for Students](https://azure.microsoft.com/free/students/) |
+| Azure Dev Tools for Teaching | `[Global]` | Ontwikkeltools via Azure Education Hub, afhankelijk van onderwijsinstelling of studentstatus | [Microsoft Learn: Azure Dev Tools for Teaching](https://learn.microsoft.com/azure/education-hub/azure-dev-tools-teaching/about-program) |
+| AWS Educate | `[Global]` | Gratis cloudtraining, hands-on labs en leerpaden | [AWS Educate](https://aws.amazon.com/education/awseducate/) |
+| Google Cloud Skills Boost | `[Global]` | Hands-on labs en leerpaden voor Google Cloud | [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) |
+| Google Cloud Skills Boost paths | `[Global]` | Gestructureerde leerpaden voor Google Cloud skills | [Google Cloud Skills Boost paths](https://www.cloudskillsboost.google/paths) |
 
-| **Item**                                                                                    | **Beschrijving**                                                                                                                     |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/studentambassadors)          | Studentenambassadeursprogramma voor Microsoft-technologieën. Inclusief gratis Microsoft-goodies, evenementen, coaching en cursussen. |
-| [Google Developer Student Club](https://gdsc.community.dev/delft-university-of-technology/) | Club voor studenten die geïnteresseerd zijn in Google-technologieën. Maakt deel uit van de TU Delft.                                 |
+## Design, productiviteit en media
 
-## Stages & Banen
+| Item | Regio | Wat je krijgt | Officiële pagina |
+|---|---|---|---|
+| Figma for Education | `[Global]` | Gratis education plan, type plan hangt af van onderwijsniveau | [Figma for Education](https://www.figma.com/education/) |
+| Notion for Education | `[Global]` | Gratis education plan voor in aanmerking komende studenten en docenten | [Notion for Education](https://www.notion.so/product/notion-for-education) |
+| Adobe Creative Cloud Student | `[NL]` | Studentenkorting op Creative Cloud, prijs en voorwaarden kunnen wijzigen | [Adobe Creative Cloud voor studenten](https://www.adobe.com/nl/creativecloud/buy/students.html) |
+| O'Reilly | `[Global]` | Vaak gratis via onderwijsinstelling of bibliotheek, individueel abonnement is betaald | [O'Reilly library access](https://www.oreilly.com/library-access/) |
+| O'Reilly Higher Education | `[Global]` | O'Reilly aanbod voor hoger onderwijs en instellingen | [O'Reilly Higher Education](https://www.oreilly.com/online-learning/academic.html) |
+| Spotify Premium Student | `[NL]` | Studentenkorting met periodieke herverificatie | [Spotify Premium Student](https://www.spotify.com/nl/student/) |
+| Storytel Student | `[NL]` | Studentenkorting via de officiële studentenpagina, actuele prijs kan wijzigen | [Storytel Unlimited voor studenten](https://support.storytel.com/hc/nl/articles/4402821071250-Storytel-Unlimited-voor-studenten) |
+| Knaek | `[NL]` | Studentenkorting en cashback in Nederland en België, actuele voorwaarden op de officiële site | [Knaek](https://www.knaek.nl/) |
 
-| **Item**                           | **Beschrijving**                                               |
-| ---------------------------------- | -------------------------------------------------------------- |
-| [Magnet.me](https://magnet.me/)    | NL-platform voor stages, afstudeeropdrachten en startersbanen. |
-| [Integrand](https://integrand.nl/) | Landelijk studentenplatform voor stages en traineeships.       |
+## Nederlandse en lokale voordelen
 
-## Fun
+| Item | Regio | Wat je krijgt | Officiële pagina |
+|---|---|---|---|
+| SURFspot | `[NL]` | Korting op software en digitale diensten via aangesloten onderwijsinstellingen | [SURFspot](https://www.surfspot.nl/) |
+| SURFspot assortiment update | `[NL]` | Informatie over het vernieuwde assortiment en het stoppen met hardwareverkoop | [Nieuw assortiment per 1 juli](https://www.surfspot.nl/nieuw-assortiment-per-1-juli) |
+| Bibliotheek Rotterdam | `[Rotterdam]` | Gratis abonnement voor Rotterdammers, afhankelijk van actuele voorwaarden | [Bibliotheek Rotterdam: word lid](https://www.bibliotheek.rotterdam.nl/word-lid) |
+| Rotterdampas studenten | `[Rotterdam]` | Studententarief voor studenten die wonen of studeren in Rotterdam, niet standaard gratis | [Rotterdampas voor studenten](https://www.rotterdampas.nl/rotterdampas-voor-studenten) |
+| Rotterdampas tarieven | `[Rotterdam]` | Actuele tarieven en voorwaarden | [Rotterdampas tarieven en voorwaarden](https://www.rotterdampas.nl/info-contact/tarieven-voorwaarden) |
+| NLJUG studentenlidmaatschap | `[NL]` | Gratis studentenlidmaatschap voor Java community en events | [NLJUG gratis lid worden studenten](https://nljug.org/lidworden/gratis-lid-worden-studenten/) |
+| SDN studentenlidmaatschap | `[NL]` | Gratis studentenlidmaatschap voor de SDN community | [SDN gratis lid worden studenten](https://sdn.nl/lidworden/gratis-lid-worden-studenten/) |
 
-| **Item**                                                                          | **Beschrijving**                                                                                           |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [Spotify Student Premium](https://www.spotify.com/nl/student/)                    | Maandelijkse premium Spotify-abonnement met korting.                                                       |
-| [Storytel (9,99 i.p.v. 12,99)](https://www.storytel.com/nl/nl/c/studentenkorting) | Korting op Storytel-audioboeken.                                                                           |
-| [Knaek](https://www.knaek.nl/)                                                    | Studentenkorting of cashback voor verschillende diensten en locaties in Nederland. **Eerste jaar gratis**. |
-| [Rotterdampas](https://www.rotterdampas.nl/rotterdampas-voor-studenten)           | Kortingspas die je gratis kan aanvragen. Te gebruiken voor diverse activiteiten in Rotterdam.              |
+## Communities en carrière
 
-## Extra’s
+| Item | Regio | Wat je krijgt | Officiële pagina |
+|---|---|---|---|
+| Google Developer Groups | `[Global]` | Lokale Google developer communities en events | [GDG Community](https://gdg.community.dev/) |
+| Google Developers Community | `[Global]` | Overzicht van Google developer communities en programma's | [Google Developers Community](https://developers.google.com/community) |
+| CNCF community | `[Global]` | Cloud native community, projecten en events | [CNCF](https://www.cncf.io/) |
+| Azure Platform Engineering meetup | `[NL]` | Community rond Azure en platform engineering, met periodieke meetups | [Azure Platform Engineering Meetup](https://www.meetup.com/nl-NL/azure-platform-engineering/) |
+| DotNetFriday | `[NL]` | Kwartaalmeetups voor .NET en Azure developers | [DotNetFriday](https://dotnetfriday.nl/) |
+| Integrand | `[NL]` | Stages, traineeships en startersfuncties | [Integrand](https://www.integrand.nl/) |
+| Magnet.me | `[NL]` | Stages, bijbanen en startersbanen | [Magnet.me](https://magnet.me/) |
 
-| **Item**                                                          | **Beschrijving**                                                                                              |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [Exercism.io](https://exercism.org/)                              | Online platform voor het oefenen van programmeeropdrachten, inclusief gratis feedback van ervaren developers. |
-| [LearnWeb3](https://learnweb3.io/)                                | Leermiddelen voor Web3-technologieën. Leer hoe je moet programmeren op de blockchain en met crypto.           |
-| [edX](https://www.edx.org/)                                       | Online leerplatform met cursussen van topuniversiteiten.                                                      |
-| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Hulpmiddel voor technische sollicitatiegesprekken.                                                            |
-| [Overleaf](https://www.overleaf.com/)                             | Schrijf rapporten/artikelen in LaTeX; ideaal voor verslaglegging.                                             |
-| [Devpost](https://devpost.com/) & [MLH](https://mlh.io/)          | Vind hackathons en competities (vaak gratis of met studentenkorting).                                         |
-| [Good First Issue (aggregators)](https://goodfirstissue.dev/)     | Vind open-source issues om mee te beginnen; perfect voor eerste bijdragen.                                    |
+## Security essentials
+
+Deze sectie bevat geen studentendeals, maar wel gratis of nuttige security tools voor studenten.
+
+| Item | Regio | Wat je krijgt | Officiële pagina |
+|---|---|---|---|
+| Bitwarden | `[Global]` | Password manager met gratis plan | [Bitwarden pricing](https://bitwarden.com/pricing/) |
+| Bitwarden Authenticator | `[Global]` | Authenticator app voor 2FA | [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/) |
+| Microsoft Authenticator | `[Global]` | 2FA en accountbeveiliging | [Microsoft Authenticator](https://www.microsoft.com/security/mobile-authenticator-app) |
+| Google Authenticator | `[Global]` | 2FA app voor accounts | [Google Authenticator](https://support.google.com/accounts/answer/1066447) |
+
+## Jaarlijkse events
+
+Gebruik bij voorkeur geen harde data in deze README. Eventdata verlopen snel. Link daarom naar de officiële eventpagina en controleer daar de actuele editie.
+
+| Event | Regio | Type | Officiële pagina |
+|---|---|---|---|
+| Upstream Festival | `[NL]` | Tech, startups en innovatie | [Upstream Festival](https://www.upstreamfestival.com/) |
+| CollabDays Netherlands | `[NL]` | Microsoft, cloud en community event | [CollabDays Netherlands](https://www.collabdays.org/2026-nl/) |
+| Cybersec Netherlands | `[NL]` | Cybersecurity event | [Cybersec Netherlands](https://www.cybersec-netherlands.com/) |
+| AI & Big Data Expo Europe | `[NL]` | AI, data en enterprise technology | [AI & Big Data Expo Europe](https://www.ai-expo.net/europe/) |
+| World Summit AI | `[NL]` | AI conferentie | [World Summit AI](https://worldsummit.ai/) |
+| J-Fall | `[NL]` | Java community conferentie | [J-Fall](https://jfall.nl/) |
+| Cloud Expo | `[NL]` | Cloud en IT event | [Cloud Expo](https://cloudexpo.nl/) |
+| Zorg & ict | `[NL]` | Zorg, ICT en innovatie | [Zorg & ict](https://www.zorg-en-ict.nl/) |
+| HBO-ICT Job & Student Event | `[NL]` | Carrière event voor HBO-ICT studenten | [HBO-ICT Job & Student Event](https://hboictjobevent.nl/en/) |
+
+## Bijdragen
+
+Pull requests zijn welkom. Gebruik bij elke wijziging een juiste bron.
